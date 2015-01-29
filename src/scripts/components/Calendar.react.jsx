@@ -38,6 +38,8 @@ var Calendar = React.createClass({
 
         CalendarStateActionCreators.changeDateRange(range.start, range.end);
 
+        var calendars = CalendarStore.getAll();
+
         for(var index in calendars) {
             EventActionCreators.fetch(calendars[index], range);
         }
