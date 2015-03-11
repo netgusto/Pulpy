@@ -54,6 +54,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Jérôme Schneider <contact@netgusto.com>",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
 }
