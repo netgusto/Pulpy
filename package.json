@@ -1,6 +1,6 @@
 {
-  "name": "calclient-week",
-  "version": "1.0.0",
+  "name": "pulpy",
+  "version": "0.0.1-dev",
   "description": "",
   "main": "Gruntfile.js",
   "src": "src",

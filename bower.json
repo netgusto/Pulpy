@@ -1,0 +1,17 @@
+{
+  "name": "pulpy",
+  "version": "0.0.1-dev",
+  "homepage": "https://github.com/netgusto/Pulpy",
+  "authors": [
+    "Jérôme Schneider <contact@netgusto.com>"
+  ],
+  "description": "Juicy full featured web calendar",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
