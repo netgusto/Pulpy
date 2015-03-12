@@ -375,7 +375,7 @@ var LayerEvents = React.createClass({
 
         var difference = boundarymoment.diff(this.state.creatingpivot),
             precisedifference = preciseboundarymoment.diff(this.state.creatingpivotprecise),
-            direction;
+            direction = 0;
 
         if(difference < 0) {
             direction = -1;
